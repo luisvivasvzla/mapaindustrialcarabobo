@@ -1,0 +1,15 @@
+[
+  {
+    "id": "run_1789656436328",
+    "archivo": "Reporte_CIEC_2026-09-01.xlsx",
+    "archivoDestino": "Reporte_CIEC_2026-09-01__procesado_20260917-1043.xlsx",
+    "fecha": "2026-09-17T14:47:16.328Z",
+    "estado": "completado",
+    "totalFilas": 104,
+    "empresasAgregadas": 99,
+    "duplicadosOmitidos": 5,
+    "verificadasAuto": 2,
+    "pendientesRevision": 97,
+    "duracionMs": 222298
+  }
+]
